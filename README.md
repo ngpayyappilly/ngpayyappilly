@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nijo George Payyappilly</h1>
-<h3 align="center">A passionate Cloud Engineer/SRE from India</h3>
+<h3 align="center">Cloud Engineer/SRE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijogeorgep&label=Profile%20views&color=0e75b6&style=flat" alt="nijogeorgep" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/nijogeorgep](https://dev.to/nijogeorgep)
 
-- 💬 Ask me about **Java, Spring, AWS, Devops**
-
-- 📫 How to reach me **nijomon@gmail.com**
+- 💬 Ask me about **Opensource, Containers, Kubernetes, Cloud Native, Devops**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
