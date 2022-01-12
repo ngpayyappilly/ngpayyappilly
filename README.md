@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijogeorgep&label=Profile%20views&color=0e75b6&style=flat" alt="nijogeorgep" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nijogeorgep" target="blank"><img src="https://img.shields.io/twitter/follow/nijogeorgep?logo=twitter&style=for-the-badge" alt="nijogeorgep" /></a> </p>
+<p align="left"> 
+   <a href="https://www.linkedin.com/in/nijogeorgep" target="blank"><img src="https://img.shields.io/linkedin/follow/nijogeorgep?logo=linkedin&style=for-the-badge" alt="nijogeorgep" /></a>
+  <a href="https://www.twitter.com/nijogeorgep" target="blank"><img src="https://img.shields.io/twitter/follow/nijogeorgep?logo=twitter&style=for-the-badge" alt="nijogeorgep" /></a>
+  <a href="https://fb.com/npayyappilly" target="blank"><img src="https://img.shields.io/facebook/follow/nijogeorgep?logo=facebook&style=for-the-badge" alt="npayyappilly" /></a>
+</p>
 
 - 📝 I regularly write articles on [https://dev.to/nijogeorgep](https://dev.to/nijogeorgep)
 
@@ -13,13 +17,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Code/Blog with me:</h3>
 <p align="left">
 <a href="https://dev.to/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nijogeorgep" height="30" width="40" /></a>
-<a href="https://twitter.com/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nijogeorgep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijogeorgep" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1559147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1559147" height="30" width="40" /></a>
-<a href="https://fb.com/npayyappilly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="npayyappilly" height="30" width="40" /></a>
 <a href="https://medium.com/@nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nijogeorgep" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nijogeorgep" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nijogeorgep" height="30" width="40" /></a>
