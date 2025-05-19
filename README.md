@@ -9,10 +9,31 @@
 
 I'm a hands-on SRE with a strong focus on automating reliability, improving developer workflows, and embedding observability at the heart of everything I build. My journey has taken me through designing multi-tenant Kubernetes platforms, implementing GitOps pipelines, and operationalizing cloud-native architectures at scale.
 
-- 💻 Experienced in **Kubernetes**, **Docker**, **Istio**, **Prometheus**, **Datadog**, **Terraform**, **Ansible**
-- 🛠️ Skilled in **Golang**, **Python**, **Java**, **Bash**
-- ☁️ Proficient with **AWS (EC2, ECS, EKS, IAM, CloudWatch, VPC, Transit Gateway)** and cloud-native patterns
-- 🔐 Focused on **application & infrastructure security**, **real-time monitoring**, and **failure recovery**
+---
+## 🧠 Skills & Expertise
+
+### 👨‍💻 Developer Skills
+- **Languages**: Java, Python(Intermediate), Golang(Intermediate), Bash
+- **Frameworks**: Spring Boot, Spring MVC, Spring Data, Spring WebFlux, Spring AI, Spring Actuator, FastAPI, Flask
+- **Tools**: Git, GitHub Actions, REST/gRPC APIs, Postman
+- **Practices**: Clean Code, CI/CD, Testing (JUnit, Pytest), Observability Instrumentation
+
+---
+
+### 🛠️ SRE / DevOps Skills
+- **Infrastructure as Code**: Terraform(Intermediate), Helm, Ansible(Intermediate)
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Service Mesh**: Istio, Envoy
+- **Monitoring & Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, Statsd, Micrometer
+- **Resilience Engineering**: SLOs, Chaos Engineering, Load Testing (K6, JMeter, Gatling)
+- **Incident Management**: PagerDuty, Slack Automation, Runbooks, RCA
+
+---
+
+### ☁️ Cloud & Platform
+- **AWS**: IAM, EC2, S3, VPC, Transit Gateway, CloudWatch, EKS, ALB/NLB, ECS, AMIs
+- **Secrets & Security**: HashiCorp Vault, AWS KMS, OPA/Gatekeeper, Kyverno
+- **Networking**: DNS, TLS, VPC peering, Ingress/Egress gateways, VPC Endpoints
 
 ---
 
