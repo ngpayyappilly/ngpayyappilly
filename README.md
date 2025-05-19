@@ -28,8 +28,8 @@ I'm a hands-on SRE with a strong focus on automating reliability, improving deve
 ## 📌 Current Focus
 
 - 🔧 Building a developer utility CLI in Go to reduce engineering toil ([devshell](https://github.com/yourusername/devshell))
-- 🌐 Architecting federated performance testing with the [k6-operator](https://github.com/grafana/k6-operator)
-- 📈 Integrating SLO-driven alerting into Kubernetes clusters with Datadog and custom WebFlux hooks
+- 🔧 Building terraform modules project with AWS Platform which helps to setup AWS based infrastrcture and tooling at scale.
+- 📈 Integrating SLO-driven alerting into Kubernetes clusters with Datadog and Microservices
 
 ---
 
