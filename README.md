@@ -1,39 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Nijo George Payyappilly</h1>
-<h3 align="center">Cloud Engineer/SRE</h3>
+# 👋 Hi, I'm Nijo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nijogeorgep&label=Profile%20views&color=0e75b6&style=flat" alt="nijogeorgep" /> </p>
+🚀 **Site Reliability Engineer | Platform Engineer | DevOps Specialist | Cloud Engineer**  
+🎯 Passionate about building scalable, resilient, and secure cloud-native infrastructure.
 
-<p align="left"> 
-   <a href="https://www.linkedin.com/in/nijogeorgep" target="blank"><img src="https://img.shields.io/linkedin/follow/nijogeorgep?logo=linkedin&style=for-the-badge" alt="nijogeorgep" /></a>
-  <a href="https://www.twitter.com/nijogeorgep" target="blank"><img src="https://img.shields.io/twitter/follow/nijogeorgep?logo=twitter&style=for-the-badge" alt="nijogeorgep" /></a>
-  <a href="https://fb.com/npayyappilly" target="blank"><img src="https://img.shields.io/facebook/follow/nijogeorgep?logo=facebook&style=for-the-badge" alt="npayyappilly" /></a>
-</p>
+---
 
-- 📝 I regularly write articles on [https://dev.to/nijogeorgep](https://dev.to/nijogeorgep)
+## 🧭 About Me
 
-- 💬 Ask me about **Opensource, Containers, Kubernetes, Cloud Native, Devops**
+I'm a hands-on SRE with a strong focus on automating reliability, improving developer workflows, and embedding observability at the heart of everything I build. My journey has taken me through designing multi-tenant Kubernetes platforms, implementing GitOps pipelines, and operationalizing cloud-native architectures at scale.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 💻 Experienced in **Kubernetes**, **Docker**, **Istio**, **Prometheus**, **Datadog**, **Terraform**, **Ansible**
+- 🛠️ Skilled in **Golang**, **Python**, **Java**, **Bash**
+- ☁️ Proficient with **AWS (EC2, ECS, EKS, IAM, CloudWatch, VPC, Transit Gateway)** and cloud-native patterns
+- 🔐 Focused on **application & infrastructure security**, **real-time monitoring**, and **failure recovery**
 
-<h3 align="left">Code/Blog with me:</h3>
-<p align="left">
-<a href="https://dev.to/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nijogeorgep" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1559147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1559147" height="30" width="40" /></a>
-<a href="https://medium.com/@nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nijogeorgep" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nijogeorgep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nijogeorgep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nijogeorgep" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📌 Current Focus
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nijogeorgep&show_icons=true&locale=en&layout=compact" alt="nijogeorgep" />
-  &nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nijogeorgep&show_icons=true&locale=en" alt="nijogeorgep" />
-</p>
+- 🔧 Building a developer utility CLI in Go to reduce engineering toil ([devshell](https://github.com/yourusername/devshell))
+- 🌐 Architecting federated performance testing with the [k6-operator](https://github.com/grafana/k6-operator)
+- 📈 Integrating SLO-driven alerting into Kubernetes clusters with Datadog and custom WebFlux hooks
+
+---
+
+## 🧰 Featured Projects
+
+### 🔹 [devshell](https://github.com/nijogeorgep/devshell)
+A pluggable Go-based CLI tool for SREs and developers to perform quick actions like health checks, Git/K8s helpers, Slack notifications, and more.
+
+### 🔹 [eks-setup-with-terraform](https://github.com/nijogeorgep/eks-setup-with-terraform)
+A highly available EKS cluster setup used terraform blueprints with AWS with support on Istio and Crossplane.. More features to be added.
+
+### 🔹 [infra-automation](https://github.com/cloudwalker/cloudwalker-infra-automation)
+Terraform Modules for multiple AWS services and ready to setup devloper to production envrionments.
+
+---
+
+## 💬 Let's Connect
+
+- 📫 [Email Me](mailto:nijomon@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/npayyappilly)
+- 📝 [Recent Talks & Blogs](https://medium.com/@npayyappilly)
+
+---
+
+> _“Systems fail. What matters is how gracefully they recover.”_  
+> — My philosophy as an SRE
+
 
 <!--
 **nijogeorgep/nijogeorgep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
