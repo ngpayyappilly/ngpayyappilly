@@ -42,7 +42,7 @@ I'm a hands-on SRE with a strong focus on automating reliability, improving deve
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/db6b5ffd-7450-47d4-b9f5-dab127360a30)
 [![CKA](https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/cc1f8ba8-e9d4-42e1-a064-30edb542e115)
 [![CKAD](https://images.credly.com/size/220x220/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/f31025e1-8054-47f1-91e2-ef63bed65d67)
-<!--[![Terraform Associate](https://images.credly.com/size/110x110/images/terraform-badge-id.png)](https://www.credly.com/badges/terraform-public-id)-->
+[![GitOps Fundamentals](https://images.credly.com/size/220x220/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob)](https://www.credly.com/badges/41af43a3-5f31-43fe-b697-46caa7bc63f3)
 
 ---
 
