@@ -21,7 +21,7 @@ I'm a hands-on SRE with a strong focus on automating reliability, improving deve
 ---
 
 ### 🛠️ SRE / DevOps Skills
-- **Infrastructure as Code**: Terraform(Intermediate), Helm, Ansible(Intermediate)
+- **Infrastructure as Code**: Terraform(Intermediate), Helm, Ansible(Beginner)
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Service Mesh**: Istio, Envoy
 - **Monitoring & Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, Statsd, Micrometer
