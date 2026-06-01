@@ -57,13 +57,16 @@ I'm a hands-on SRE with a strong focus on automating reliability, improving deve
 
 ## 🧰 Featured Projects
 
-### 🔹 [devshell](https://github.com/nijogeorgep/devshell)
+### 🔹 [Observability As Code](https://github.com/ngpayyappilly/ObservabilityAsCode)
+This repository is the single source of truth for Dynatrace observability across all services in the ADO project. It owns two distinct layers, a platform layer which is applied once by the SRE team via Terraform. and an application layer which is scaffolded into every service repo automatically by the bootstrap pipeline and deployed continuously by Argo CD.
+
+### 🔹 [devctl](https://github.com/ngpayyappilly/devctl)
 A pluggable Go-based CLI tool for SREs and developers to perform quick actions like health checks, Git/K8s helpers, Slack notifications, and more.
 
-### 🔹 [eks-setup-with-terraform](https://github.com/nijogeorgep/eks-setup-with-terraform)
+### 🔹 [eks-setup-with-terraform](https://github.com/ngpayyappilly/eks-setup-with-terraform)
 A highly available EKS cluster setup used terraform blueprints with AWS with support on Istio and Crossplane.. More features to be added.
 
-### 🔹 [infra-automation](https://github.com/cloudwalker/cloudwalker-infra-automation)
+### 🔹 [infra-automation](https://github.com/cloudwalkersinc/cloudwalker-infra-automation)
 Terraform Modules for multiple AWS services and ready to setup devloper to production envrionments.
 
 ---
