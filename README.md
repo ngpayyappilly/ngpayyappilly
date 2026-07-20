@@ -49,8 +49,9 @@ I'm a hands-on SRE with a strong focus on automating reliability, improving deve
 
 ## 📌 Current Focus
 
-- 🔧 Building a developer utility CLI in Go to reduce engineering toil ([devshell](https://github.com/yourusername/devshell))
-- 🔧 Building terraform modules project with AWS Platform which helps to setup AWS based infrastrcture and tooling at scale.
+- 🔧 Building a openfeature compitable Feature Flag Management Platform called flagctl, which can help enterprises to manage the feture flags from one place.
+- 🔧 Building a developer utility CLI in Go to reduce engineering toil ([devctl](https://github.com/ngpayyappilly/devctl))
+- 🔧 Building terraform and Monaco driven [Observability As Code](https://github.com/ngpayyappilly/ObservabilityAsCode) strategy with Dynatrace,
 - 📈 Integrating SLO-driven alerting into Kubernetes clusters with Datadog and Microservices
 
 ---
