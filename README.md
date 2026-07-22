@@ -71,6 +71,12 @@ A highly available EKS cluster setup used terraform blueprints with AWS with sup
 Terraform Modules for multiple AWS services and ready to setup devloper to production envrionments.
 
 ---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ngpayyappilly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngpayyappilly&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ngpayyappilly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 💬 Let's Connect
 
